@@ -1,5 +1,6 @@
 # An-order-preserving-batch-effect-correction-method
-An order-preserving batch-effect correction method
+An order-preserving batch-effect correction method.
+
 Single-cell RNA sequencing has significantly advanced our understanding of
  cell heterogeneity and gene regulation. Batch-effect correction is essential for
  achieving robust data integration. Multiple methods have been developed to
